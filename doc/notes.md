@@ -7,7 +7,7 @@
 
   https://github.com/breakintoprogram/agon-docs/wiki/Updating-Firmware
 
-  https://github.com/breakintoprogram/agon-docs/wiki/Updating-Firmware
+  https://github.com/breakintoprogram/agon-mos/releases
 
   https://github.com/breakintoprogram/agon-mos/releases/download/v1.04-RC2/MOS.bin
 
