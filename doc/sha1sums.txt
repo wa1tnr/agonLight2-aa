@@ -1,1 +1,2 @@
 3338c5962b78f474b823ebeb28e7b8aa99b77af7  MOS.bin
+2cf8aeb4231cdcd6833b875e4fb4d913c108858b  AgonLight2-main.zip
