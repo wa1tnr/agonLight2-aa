@@ -2,6 +2,21 @@
 
 ### This is local work and is not part of the official guidance in any way. ;)
 
+#### Wed 25 Oct 18:50:52 UTC 2023
+
+  Very simple system bring-up - worked first try.
+
+  * fatfs was shown as vfat in blkid - no change made - used factory format*
+
+  * copied as described in the PDF AgonLight2-user-manual.pdf from
+    the OLIMEX github.
+
+  * (real-hardware) boot messages say
+      Agon Quark VDP Version 1.03
+      Agon Quark MOS Version 1.03
+
+  * say who the vendor was for the USB adaptor to write an SD card ;)
+
 #### Wed 25 Oct 18:12:37 UTC 2023
 
   Alright.  Let's do it the hard way. ;)
