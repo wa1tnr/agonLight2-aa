@@ -2,6 +2,14 @@
 
 ### This is local work and is not part of the official guidance in any way. ;)
 
+#### Wed 25 Oct 18:12:37 UTC 2023
+
+  Alright.  Let's do it the hard way. ;)
+
+    zathura AgonLight2-user-manual.pdf
+
+*zathura is a PDF browser for Wayland in Linux.*
+
 #### Wed 25 Oct 17:59:04 UTC 2023
 
 
