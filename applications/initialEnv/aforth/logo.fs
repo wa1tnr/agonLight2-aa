@@ -6,7 +6,7 @@
   CR CR
   ."  Fri 17 Nov 13:57:39 UTC  DECISION to MAKE AGON COMPANION system ;)"
   CR
-; \ end
+;
 
 \ normal program below
 
