@@ -1,8 +1,8 @@
-TIME 2023 11 18 23 00 04
-SET KEYBOARD 1
-LOAD BBCBASIC.BIN
-RUN . KBDRATE.BAS
+time 2023 11 19 17 56 22
+set KEYBOARD 1
+load bbcbasic.bin
+run . kbdrate.bas
 
-cd /aforth
-load forth24.bin
-run . auto.fs
+exec /scripts.d/forth.txt
+cd buffer.d
+nano bootnotes.txt

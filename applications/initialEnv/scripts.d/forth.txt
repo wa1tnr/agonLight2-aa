@@ -1,0 +1,3 @@
+cd /bforth
+load forth24.bin
+run . auto.fs
